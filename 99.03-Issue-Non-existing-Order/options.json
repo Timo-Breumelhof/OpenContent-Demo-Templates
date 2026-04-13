@@ -1,0 +1,18 @@
+{
+  "fields": {
+    "Title": {
+      "dependencies": {},
+      "type": "text"
+    },
+    "Text": {
+      "dependencies": {},
+      "type": "ckeditor"
+    },
+    "TestOrder": {
+      "dependencies": {}
+    },
+    "SortIndex": {
+      "dependencies": {}
+    }
+  }
+}
